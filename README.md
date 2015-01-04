@@ -20,8 +20,8 @@ Thank you and enjoy!
 
 Authors: 
 
-Nishant Casey
-Garrett Coleman
-Mike Finn
-Tom McAllister
+Nishant Casey,
+Garrett Coleman,
+Mike Finn,
+Tom McAllister,
 David O'Connor
